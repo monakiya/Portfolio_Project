@@ -1,0 +1,4 @@
+In this project I used the covid data using the dataset from https://ourworldindata.org/covid-deaths.[from feb 2020 to August 2022]
+I used SQL to do the data exploration.
+I created  two tables using Excel, and used these tables as datasets for SQL.
+After using SQL for Data-Exploration, I used Tableau For Data Visualization.
